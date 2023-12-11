@@ -3,7 +3,7 @@
 This repository contains the solution to my programming-2 course assignment.
 
 # Installation 
-To run this repositories locally, follow these steps:
+To run this repository locally, follow these steps:
 1. At first, clone this repository using this command:   
  `git clone https://github.com/eshita53/Programming-2-Course-Assignment-Submission`
 2. Then go to the folder which contains the repository contents.
