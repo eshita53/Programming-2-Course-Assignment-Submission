@@ -1,0 +1,5 @@
+patients : '../data/10k_synthea_covid19_csv/patients.csv'
+conditions: '../data/10k_synthea_covid19_csv/conditions.csv'
+observations : '../data/10k_synthea_covid19_csv/observations.csv'
+careplans : '../data/10k_synthea_covid19_csv/careplans.csv'
+encounters : '../data/10k_synthea_covid19_csv/encounters.csv'
