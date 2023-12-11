@@ -1,0 +1,14 @@
+name: programming-2
+channels:
+  - conda-forge
+dependencies:
+  - bokeh>=3.3.1
+  - geojson
+  - geopandas
+  - folium
+  - panel
+  - jupyter_client<8
+  - notebook
+  - pandas
+  - numpy
+  - python>=3.12
